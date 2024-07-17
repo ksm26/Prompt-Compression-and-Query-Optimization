@@ -1,6 +1,6 @@
 # 📊 [Prompt Compression and Query Optimization](https://www.deeplearning.ai/short-courses/prompt-compression-and-query-optimization/)
 
-🔍 Welcome to the "Prompt Compression and Query Optimization" course! Instructed by Richmond Alake, Developer Advocate at MongoDB, this course will equip you with the skills to optimize the performance and cost-efficiency of large-scale Retrieval Augmented Generation (RAG) applications by integrating traditional database features with vector search capabilities.
+🔍 Welcome to the "Prompt Compression and Query Optimization" course! Course will equip you with the skills to optimize the performance and cost-efficiency of large-scale Retrieval Augmented Generation (RAG) applications by integrating traditional database features with vector search capabilities.
 
 ## Course Summary
 In this course, you'll learn to optimize large-scale RAG applications by integrating vector search capabilities with traditional database operations. Here’s what you can expect to learn and experience:
